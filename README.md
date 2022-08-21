@@ -1,4 +1,6 @@
-# Create Nginx server with Terrraform
+# Nginx, AWS EC2, Terrraform
+Deploys and Nginx server on AWS EC2 with Terraform
+
 ## Getting Started:
 
 1. `terraform init`
